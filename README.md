@@ -1,4 +1,4 @@
-# EWEG
+# HLE
 English Word Exam Game
 <a>https://tj1the0fficial.github.io/EWEG/</a>
 
