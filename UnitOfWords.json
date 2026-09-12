@@ -1,0 +1,640 @@
+{
+    "EnglishWords": [
+        {
+            "hun": "leránt a földre (észhez térít)",
+            "en": "bring sb down to earth with a bump"
+        },
+        {
+            "hun": "eltűnt a föld színéről",
+            "en": "disappear off the face of the earth"
+        },
+        {
+            "hun": "két lábbal a földön járó",
+            "en": "down-to-earth"
+        },
+        {
+            "hun": "a világ végére is elmegy",
+            "en": "go to the ends of the earth"
+        },
+        {
+            "hun": "nincs hozzá hasonló, nagyon jó",
+            "en": "like nothing on earth"
+        },
+        {
+            "hun": "a világ minden tájáról",
+            "en": "the four corners of the earth"
+        },
+        {
+            "hun": "Hol a csudában ...?",
+            "en": "Where on earth ...?"
+        },
+        {
+            "hun": "előzőleg, azelőtt",
+            "en": "beforehand"
+        },
+        {
+            "hun": "nem bírja megállni",
+            "en": "can’t help"
+        },
+        {
+            "hun": "megszűnik",
+            "en": "cease"
+        },
+        {
+            "hun": "sztár, ismert ember, celeb",
+            "en": "celebrity"
+        },
+        {
+            "hun": "tisztáz valamit",
+            "en": "clarify"
+        },
+        {
+            "hun": "messziről jött, nagy utat járt be",
+            "en": "come a long way"
+        },
+        {
+            "hun": "felbukkan",
+            "en": "emerge"
+        },
+        {
+            "hun": "kimegy valahonnan",
+            "en": "exit"
+        },
+        {
+            "hun": "alaposan",
+            "en": "extensively"
+        },
+        {
+            "hun": "lebeg",
+            "en": "float"
+        },
+        {
+            "hun": "felad",
+            "en": "give up"
+        },
+        {
+            "hun": "gravitáció",
+            "en": "gravity"
+        },
+        {
+            "hun": "kihangsúlyoz",
+            "en": "highlight"
+        },
+        {
+            "hun": "ellenséges környezet",
+            "en": "hostility"
+        },
+        {
+            "hun": "emberiség",
+            "en": "humankind"
+        },
+        {
+            "hun": "elenged",
+            "en": "let go"
+        },
+        {
+            "hun": "végtag",
+            "en": "limb"
+        },
+        {
+            "hun": "szoroz",
+            "en": "multiply"
+        },
+        {
+            "hun": "soha véget nem érő",
+            "en": "never-ending"
+        },
+        {
+            "hun": "távoli űr",
+            "en": "outer space"
+        },
+        {
+            "hun": "ellensúlyoz, felülmúl",
+            "en": "outweigh"
+        },
+        {
+            "hun": "rámutat",
+            "en": "point out"
+        },
+        {
+            "hun": "kérdést feltesz",
+            "en": "pose"
+        },
+        {
+            "hun": "elővigyázatosság",
+            "en": "precaution"
+        },
+        {
+            "hun": "eljárás",
+            "en": "procedure"
+        },
+        {
+            "hun": "szavakba önt valamit, megfogalmaz",
+            "en": "put sth into words"
+        },
+        {
+            "hun": "sugár",
+            "en": "ray"
+        },
+        {
+            "hun": "műhold",
+            "en": "satellite"
+        },
+        {
+            "hun": "tudományos",
+            "en": "scientific"
+        },
+        {
+            "hun": "lezár",
+            "en": "seal"
+        },
+        {
+            "hun": "biztosít",
+            "en": "secure"
+        },
+        {
+            "hun": "érzés",
+            "en": "sensation"
+        },
+        {
+            "hun": "magába szív",
+            "en": "soak up"
+        },
+        {
+            "hun": "napelem",
+            "en": "solar panel"
+        },
+        {
+            "hun": "űrsikló",
+            "en": "space shuttle"
+        },
+        {
+            "hun": "űrhajó",
+            "en": "spacecraft"
+        },
+        {
+            "hun": "helyzet",
+            "en": "status"
+        },
+        {
+            "hun": "feladat",
+            "en": "task"
+        },
+        {
+            "hun": "szakkifejezés",
+            "en": "term"
+        },
+        {
+            "hun": "az emberi faj",
+            "en": "the human race"
+        },
+        {
+            "hun": "világegyetem",
+            "en": "universe"
+        },
+        {
+            "hun": "korlátlan",
+            "en": "unlimited"
+        },
+        {
+            "hun": "edény",
+            "en": "utensil"
+        },
+        {
+            "hun": "súlytalanság",
+            "en": "weightlessness"
+        },
+        {
+            "hun": "összecsomagol",
+            "en": "wrap up"
+        },
+        {
+            "hun": "napokig, napokon keresztül",
+            "en": "days on end"
+        },
+        {
+            "hun": "környezetvédő",
+            "en": "environmentalist"
+        },
+        {
+            "hun": "intézkedések",
+            "en": "measures"
+        },
+        {
+            "hun": "posztgraduális, másoddiplomás képzés",
+            "en": "postgraduate"
+        },
+        {
+            "hun": "meccs utáni, meccset követő",
+            "en": "post-match"
+        },
+        {
+            "hun": "háború utáni, háborút követő",
+            "en": "post-war"
+        },
+        {
+            "hun": "előre elintézett",
+            "en": "prearranged"
+        },
+        {
+            "hun": "előfőzött",
+            "en": "precooked"
+        },
+        {
+            "hun": "szezon előtti",
+            "en": "preseason"
+        },
+        {
+            "hun": "betanít",
+            "en": "pre-teach"
+        },
+        {
+            "hun": "előre megnéz",
+            "en": "preview"
+        },
+        {
+            "hun": "beadja a derekát",
+            "en": "give in"
+        },
+        {
+            "hun": "kibocsát, kiad magából",
+            "en": "give off"
+        },
+        {
+            "hun": "kioszt, osztogat",
+            "en": "give out"
+        },
+        {
+            "hun": "ingyen ad valamit",
+            "en": "give sth away"
+        },
+        {
+            "hun": "véget vet valaminek",
+            "en": "put an end to"
+        },
+        {
+            "hun": "szól egy szót az érdekében",
+            "en": "put in a good word"
+        },
+        {
+            "hun": "gyakorlatba fektet valamit",
+            "en": "put into practice"
+        },
+        {
+            "hun": "pénzt fektet valamibe",
+            "en": "put money into"
+        },
+        {
+            "hun": "megnyugtat valakit",
+            "en": "put one’s mind at ease"
+        },
+        {
+            "hun": "írni valamit",
+            "en": "put pen to paper"
+        },
+        {
+            "hun": "nyomást gyakorol valamire",
+            "en": "put pressure on"
+        },
+        {
+            "hun": "hibáztat valakit",
+            "en": "put the blame on"
+        },
+        {
+            "hun": "savas eső",
+            "en": "acid rain"
+        },
+        {
+            "hun": "alkalmazható",
+            "en": "adaptable"
+        },
+        {
+            "hun": "valaminek a rovására, kárára",
+            "en": "at the expense of"
+        },
+        {
+            "hun": "ökológiai lábnyom",
+            "en": "carbon footprint"
+        },
+        {
+            "hun": "magáénak követel, elvesz",
+            "en": "claim"
+        },
+        {
+            "hun": "partvonal",
+            "en": "coastline"
+        },
+        {
+            "hun": "megőrzés, megvédés",
+            "en": "conservation"
+        },
+        {
+            "hun": "természetvédő",
+            "en": "conservationist"
+        },
+        {
+            "hun": "megvéd, megőriz",
+            "en": "conserve"
+        },
+        {
+            "hun": "pusztító, romboló (főnév)",
+            "en": "destroyer"
+        },
+        {
+            "hun": "pusztítás, rombolás",
+            "en": "destruction"
+        },
+        {
+            "hun": "pusztító, romboló (melléknév)",
+            "en": "destructive"
+        },
+        {
+            "hun": "Több kárt csinál, mint hasznot.",
+            "en": "Do more harm than good."
+        },
+        {
+            "hun": "szemetet lerak",
+            "en": "dump"
+        },
+        {
+            "hun": "ökoszisztéma",
+            "en": "ecosystem"
+        },
+        {
+            "hun": "veszélyeztet",
+            "en": "endanger"
+        },
+        {
+            "hun": "kimar, elkoptat, erodál",
+            "en": "erode"
+        },
+        {
+            "hun": "kopás, erózió, rozsdásodás",
+            "en": "erosion"
+        },
+        {
+            "hun": "kihalás",
+            "en": "extinction"
+        },
+        {
+            "hun": "alak, forma",
+            "en": "formation"
+        },
+        {
+            "hun": "nem áll módjában, nincs módja",
+            "en": "have no means of"
+        },
+        {
+            "hun": "benépesít, lakik",
+            "en": "inhabit"
+        },
+        {
+            "hun": "nem elégséges",
+            "en": "insufficient"
+        },
+        {
+            "hun": "fakitermelés",
+            "en": "logging"
+        },
+        {
+            "hun": "olajfolt",
+            "en": "oil spill"
+        },
+        {
+            "hun": "szennyező",
+            "en": "pollutant"
+        },
+        {
+            "hun": "megelőzhető",
+            "en": "preventable"
+        },
+        {
+            "hun": "megelőző",
+            "en": "preventative"
+        },
+        {
+            "hun": "megelőzés",
+            "en": "prevention"
+        },
+        {
+            "hun": "megelőző",
+            "en": "preventive"
+        },
+        {
+            "hun": "védő, oltalmazó",
+            "en": "protective"
+        },
+        {
+            "hun": "védő, pártfogó (személy)",
+            "en": "protector"
+        },
+        {
+            "hun": "mérték, fok, arány, ráta",
+            "en": "rate"
+        },
+        {
+            "hun": "partvonal",
+            "en": "shoreline"
+        },
+        {
+            "hun": "hiány",
+            "en": "shortage"
+        },
+        {
+            "hun": "alámerül, elárasztja a víz",
+            "en": "submerge"
+        },
+        {
+            "hun": "fenyegető",
+            "en": "threatening"
+        },
+        {
+            "hun": "legnagyobb fontosságú, legfontosabb",
+            "en": "top priority"
+        },
+        {
+            "hun": "mérgező hulladék",
+            "en": "toxic waste"
+        },
+        {
+            "hun": "mennyiség",
+            "en": "volume"
+        },
+        {
+            "hun": "elkopik, elvékonyodik, elhasználódik",
+            "en": "wear away"
+        },
+        {
+            "hun": "ennnek ellenére",
+            "en": "yet"
+        },
+        {
+            "hun": "elromlik",
+            "en": "break down"
+        },
+        {
+            "hun": "megsüketítő",
+            "en": "deafening"
+        },
+        {
+            "hun": "kidob, megszabadul valamitől",
+            "en": "dispose"
+        },
+        {
+            "hun": "zavaró",
+            "en": "distracting"
+        },
+        {
+            "hun": "adományoz",
+            "en": "donate"
+        },
+        {
+            "hun": "meghosszabbít",
+            "en": "extend"
+        },
+        {
+            "hun": "veszélyes",
+            "en": "hazardous"
+        },
+        {
+            "hun": "veszélyt jelent az egészségre",
+            "en": "health hazard"
+        },
+        {
+            "hun": "ipari park",
+            "en": "industrial plant"
+        },
+        {
+            "hun": "zavar, megzavar",
+            "en": "interfere"
+        },
+        {
+            "hun": "idegesítő",
+            "en": "irritating"
+        },
+        {
+            "hun": "hulladéklerakó",
+            "en": "landfill"
+        },
+        {
+            "hun": "életet veszélyeztető",
+            "en": "life-threatening"
+        },
+        {
+            "hun": "hallgató",
+            "en": "listener"
+        },
+        {
+            "hun": "hallásromlás, megsüketülés",
+            "en": "loss of hearing"
+        },
+        {
+            "hun": "migrén, fejfájás",
+            "en": "migraine"
+        },
+        {
+            "hun": "minimalizál, legkisebbre csökkent",
+            "en": "minimise"
+        },
+        {
+            "hun": "napi rendszerességgel",
+            "en": "on a daily basis"
+        },
+        {
+            "hun": "túltölt",
+            "en": "overfill"
+        },
+        {
+            "hun": "lakott terület",
+            "en": "residential area"
+        },
+        {
+            "hun": "légzőszervi, légúti",
+            "en": "respiratory"
+        },
+        {
+            "hun": "haszontalanság",
+            "en": "uselessness"
+        },
+        {
+            "hun": "megtilt, tiltás",
+            "en": "ban"
+        },
+        {
+            "hun": "lakos, polgár",
+            "en": "citizen"
+        },
+        {
+            "hun": "ellentmondó, ellentétes",
+            "en": "conflicting"
+        },
+        {
+            "hun": "folyamatosan növekvő",
+            "en": "ever-growing"
+        },
+        {
+            "hun": "megszűr, szűr",
+            "en": "filter"
+        },
+        {
+            "hun": "előre lát",
+            "en": "foresee"
+        },
+        {
+            "hun": "célszerűtlen, nem praktikus",
+            "en": "impractical"
+        },
+        {
+            "hun": "részleges",
+            "en": "partial"
+        },
+        {
+            "hun": "sajtótájékoztató",
+            "en": "press conference"
+        },
+        {
+            "hun": "szmog, levegőszennyezés",
+            "en": "smog"
+        },
+        {
+            "hun": "növényzet",
+            "en": "vegetation"
+        },
+        {
+            "hun": "megvalósítható, működőképes",
+            "en": "workable"
+        },
+        {
+            "hun": "szófaj",
+            "en": "part of speech"
+        },
+        {
+            "hun": "előszó",
+            "en": "preposition"
+        },
+        {
+            "hun": "segéd ige",
+            "en": "auxiliary verb"
+        },
+        {
+            "hun": "névelő",
+            "en": "articles"
+        },
+        {
+            "hun": "átfutni (szövegen)",
+            "en": "skim"
+        },
+        {
+            "hun": "névmás",
+            "en": "pronoun"
+        },
+        {
+            "hun": "kötőszavak",
+            "en": "linking words"
+        },
+        {
+            "hun": "szó elemek",
+            "en": "vocabulary items"
+        }
+    ]
+}

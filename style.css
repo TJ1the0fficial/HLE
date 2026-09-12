@@ -1,0 +1,210 @@
+:root {
+
+    --b1 : 10px;
+    --b2 : 10px;
+    --b3 : 10px;
+    --b4 : 10px;
+    --rb : 10px;
+    --wb : 10px;
+    --mb : 10px;
+
+    --bt1 : 0px;
+    --bt2 : 0px;
+    --bt3 : 0px;
+    --bt4 : 0px;
+    --rbt : 0px;
+    --wbt : 0px;
+    --mbt : 0px;
+
+    /* Mute button colors */
+    --mb-main-on-color : rgb(98, 255, 74);
+    --mb-outline-on-color : rgb(75, 170, 43);
+    
+    --mb-main-off-color : rgb(255, 98, 74);
+    --mb-outline-off-color : rgb(170, 75, 43);
+
+    --mb-state : on; /*Don't touch it!*/
+
+    --mb-main-color : rgb(98, 255, 74);
+    --mb-outline-color : rgb(75, 170, 43);
+
+}
+
+#game {
+    /*Style*/
+    height: 500px;
+    width: 500px;
+    
+    margin-top: 50px;
+
+    border-radius: 50px;
+
+    text-align: center;
+
+    padding-top: 50px;
+    /**/
+
+    /*Center*/
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    /**/
+
+    /*Test*/
+    background-color: whitesmoke;
+}
+
+#sign {
+
+    width: 350px;
+    height: 100px;
+    border-radius: 50px;
+
+    margin: auto;
+
+    padding-top: 50px;
+    background-color: lightgreen;
+
+    box-shadow: green 0px 10px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+}
+
+#box {
+    
+    margin-top: 50px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.buttons {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 200px;
+    height: 100px;
+
+    border-radius: 25px;
+
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+    /* padding-top: 15%; */
+
+    transition: 0.2s;
+
+}
+
+.buttons p {
+    padding: 20%;
+}
+
+#b1 {
+    box-shadow: lightskyblue 0px var(--b1);
+    translate: 0px var(--bt1);
+}
+#b2 {
+    box-shadow: lightskyblue 0px var(--b2);
+    translate: 0px var(--bt2);
+}
+#b3 {
+    box-shadow: lightskyblue 0px var(--b3);
+    translate: 0px var(--bt3);
+}
+#b4 {
+    box-shadow: lightskyblue 0px var(--b4);
+    translate: 0px var(--bt4);
+}
+#rb {
+    /*from buttons*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 200px;
+    height: 100px;
+
+    border-radius: 25px;
+
+    transition: 0.2s;
+    /**/
+
+    text-align: center;
+
+    color: azure;
+    background-color: rgb(255, 74, 74);
+    box-shadow: rgb(250, 135, 135) 0px var(--rb);
+    translate: 0px var(--rbt);
+}
+
+#rb p {
+    padding: 20%;
+}
+
+#wb {
+    /*from buttons*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 200px;
+    height: 100px;
+
+    border-radius: 25px;
+
+    transition: 0.2s;
+    /**/
+
+    margin-top: 50px;
+
+    text-align: center;
+
+    color: azure;
+    background-color: rgb(219, 74, 255);
+    box-shadow: rgb(145, 43, 170) 0px var(--wb);
+    translate: 0px var(--wbt);
+}
+
+#wb p {
+    padding: 20%;
+}
+
+#mb {
+    /*from buttons*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+
+    background-color: rgb(166, 255, 255);
+
+    width: 200px;
+    height: 100px;
+
+    border-radius: 25px;
+
+    transition: 0.2s;
+    /**/
+
+    margin-top: 50px;
+
+    text-align: center;
+
+    color: azure;
+    background-color: var(--mb-main-color);
+    box-shadow: var(--mb-outline-color) 0px var(--mb);
+    translate: 0px var(--mbt);
+}
+
+#mb p {
+    padding: 20%;
+}

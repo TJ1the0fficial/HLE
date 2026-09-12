@@ -1,0 +1,364 @@
+{
+    "EnglishWords": [
+        {
+            "en": "cardinal",
+            "hun": "tőszámnév"
+        },
+        {
+            "en": "even",
+            "hun": "páros"
+        },
+        {
+            "en": "odd",
+            "hun": "páratlan"
+        },
+        {
+            "en": "ordinal",
+            "hun": "sorszámnév"
+        },
+        {
+            "en": "billion",
+            "hun": "milliárd"
+        },
+        {
+            "en": "decimal point",
+            "hun": "tizedesvessző"
+        },
+        {
+            "en": "digit",
+            "hun": "számjegy"
+        },
+        {
+            "en": "fraction",
+            "hun": "tört"
+        },
+        {
+            "en": "million",
+            "hun": "millió"
+        },
+        {
+            "en": "trillion",
+            "hun": "billió"
+        },
+        {
+            "en": "minus",
+            "hun": "mínusz"
+        },
+        {
+            "en": "divide",
+            "hun": "oszt"
+        },
+        {
+            "en": "equal",
+            "hun": "egyenlő"
+        },
+        {
+            "en": "multiply",
+            "hun": "szoroz"
+        },
+        {
+            "en": "subtract",
+            "hun": "kivon"
+        },
+        {
+            "en": "aerodynamic",
+            "hun": "áramvonalas"
+        },
+        {
+            "en": "flexible",
+            "hun": "rugalmas"
+        },
+        {
+            "en": "alloy",
+            "hun": "ötvözet"
+        },
+        {
+            "en": "bearings",
+            "hun": "csapágyak"
+        },
+        {
+            "en": "composites",
+            "hun": "kompozit anyagok"
+        },
+        {
+            "en": "corrosion",
+            "hun": "korrózió"
+        },
+        {
+            "en": "laminate",
+            "hun": "laminátum"
+        },
+        {
+            "en": "performance",
+            "hun": "teljesítmény"
+        },
+        {
+            "en": "plywood",
+            "hun": "rétegelt lemez"
+        },
+        {
+            "en": "property",
+            "hun": "tulajdonság"
+        },
+        {
+            "en": "PVC",
+            "hun": "PVC"
+        },
+        {
+            "en": "ratio",
+            "hun": "arány"
+        },
+        {
+            "en": "wear",
+            "hun": "kopás"
+        },
+        {
+            "en": "stretch",
+            "hun": "nyújt"
+        },
+        {
+            "en": "vary",
+            "hun": "változik"
+        },
+        {
+            "en": "extinct",
+            "hun": "kihalt"
+        },
+        {
+            "en": "cell",
+            "hun": "sejt"
+        },
+        {
+            "en": "ecosystem",
+            "hun": "ökoszisztéma"
+        },
+        {
+            "en": "food chain",
+            "hun": "tápláléklánc"
+        },
+        {
+            "en": "food web",
+            "hun": "táplálékháló"
+        },
+        {
+            "en": "habitat",
+            "hun": "élőhely"
+        },
+        {
+            "en": "interaction",
+            "hun": "kölcsönhatás"
+        },
+        {
+            "en": "migration",
+            "hun": "vándorlás"
+        },
+        {
+            "en": "organ",
+            "hun": "szerv"
+        },
+        {
+            "en": "organism",
+            "hun": "élőlény"
+        },
+        {
+            "en": "organ system",
+            "hun": "szervrendszer"
+        },
+        {
+            "en": "shelter",
+            "hun": "menedék"
+        },
+        {
+            "en": "survival",
+            "hun": "túlélés"
+        },
+        {
+            "en": "tissue",
+            "hun": "szövet"
+        },
+        {
+            "en": "breed",
+            "hun": "szaporodik"
+        },
+        {
+            "en": "atom",
+            "hun": "atom"
+        },
+        {
+            "en": "boiling point",
+            "hun": "forráspont"
+        },
+        {
+            "en": "chemical",
+            "hun": "vegyszer"
+        },
+        {
+            "en": "compound",
+            "hun": "vegyület"
+        },
+        {
+            "en": "element",
+            "hun": "elem"
+        },
+        {
+            "en": "formula",
+            "hun": "képlet"
+        },
+        {
+            "en": "freezing point",
+            "hun": "fagyáspont"
+        },
+        {
+            "en": "matter",
+            "hun": "anyag"
+        },
+        {
+            "en": "melting point",
+            "hun": "olvadáspont"
+        },
+        {
+            "en": "proton",
+            "hun": "proton"
+        },
+        {
+            "en": "substance",
+            "hun": "anyag / szubsztancia"
+        },
+        {
+            "en": "vapour",
+            "hun": "gőz"
+        },
+        {
+            "en": "volume",
+            "hun": "térfogat"
+        },
+        {
+            "en": "evaporate",
+            "hun": "párolog"
+        },
+        {
+            "en": "expand",
+            "hun": "tágul"
+        },
+        {
+            "en": "rural",
+            "hun": "vidéki"
+        },
+        {
+            "en": "sound-proofed",
+            "hun": "hangszigetelt"
+        },
+        {
+            "en": "two-stroke",
+            "hun": "kétütemű"
+        },
+        {
+            "en": "accelerator",
+            "hun": "gázpedál"
+        },
+        {
+            "en": "compression",
+            "hun": "sűrítés"
+        },
+        {
+            "en": "crankshaft",
+            "hun": "főtengely"
+        },
+        {
+            "en": "domestic appliance",
+            "hun": "háztartási gép"
+        },
+        {
+            "en": "exhaust gas",
+            "hun": "kipufogógáz"
+        },
+        {
+            "en": "fuel",
+            "hun": "üzemanyag"
+        },
+        {
+            "en": "pulley",
+            "hun": "csiga / tárcsa"
+        },
+        {
+            "en": "pump",
+            "hun": "szivattyú"
+        },
+        {
+            "en": "charge (batteries)",
+            "hun": "tölt (akkumulátort)"
+        },
+        {
+            "en": "engage (gears)",
+            "hun": "kapcsol (sebességet)"
+        },
+        {
+            "en": "generate",
+            "hun": "fejleszt / generál"
+        },
+        {
+            "en": "wear",
+            "hun": "kopik / elhasználódik"
+        },
+        {
+            "en": "relational",
+            "hun": "relációs"
+        },
+        {
+            "en": "Bluetooth",
+            "hun": "Bluetooth"
+        },
+        {
+            "en": "browser",
+            "hun": "böngésző"
+        },
+        {
+            "en": "bug",
+            "hun": "programhiba"
+        },
+        {
+            "en": "CPU",
+            "hun": "CPU / processzor"
+        },
+        {
+            "en": "database",
+            "hun": "adatbázis"
+        },
+        {
+            "en": "firewall",
+            "hun": "tűzfal"
+        },
+        {
+            "en": "inquiry",
+            "hun": "lekérdezés"
+        },
+        {
+            "en": "key",
+            "hun": "kulcs"
+        },
+        {
+            "en": "master",
+            "hun": "fő / mester"
+        },
+        {
+            "en": "operating system",
+            "hun": "operációs rendszer"
+        },
+        {
+            "en": "recipient",
+            "hun": "címzett"
+        },
+        {
+            "en": "slave",
+            "hun": "szolga / alárendelt"
+        },
+        {
+            "en": "crash",
+            "hun": "összeomlik"
+        },
+        {
+            "en": "reboot",
+            "hun": "újraindít"
+        }
+    ]
+}
